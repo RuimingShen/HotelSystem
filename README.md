@@ -5,7 +5,7 @@ build system cmake, Kit Qt 6.7.0 MinGW 64-bit. The program should then properly 
 Copy all the things besides README to this file and then Click on Run to run the project. If you
 open the project directly, the build configuration may has some issues.
 
-There are 3 types of hotels, each with 10 rooms. Customers can book anyone. Customers also need to
+There are 3 types of hotels, economic, premieum, gold, each with 10 rooms. Customers can book anyone. Customers also need to
 fill in their name, phone number, and choose an order time. If the hotel the customer
 wants to book has no available rooms, it will display booking failed, try other hotels. After
 booking, a receipt will be printed to the customer. The receipt contains the price, time,
