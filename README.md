@@ -1,5 +1,5 @@
-# HotelSystem
-A C++ GUI application in reservation for a hotel, done in qt.
+# Hotel Reservation System
+A C++ GUI application in reservation for a hotel, implemented in qt.
 To run the program, install Qt creator first and create a project with Qt widgets Application,
 build system cmake, Kit Qt 6.7.0 MinGW 64-bit. The program should then properly configured.
 Copy all the things besides README to this file and then Click on Run to run the project. If you
